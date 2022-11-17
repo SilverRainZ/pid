@@ -1,3 +1,3 @@
-module github.com/choleraehyq/pid
+module github.com/SilverRainZ/pid
 
 go 1.10
